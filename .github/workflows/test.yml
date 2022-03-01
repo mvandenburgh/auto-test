@@ -1,0 +1,13 @@
+name: test
+
+on:
+  push:
+    tags:
+      - 'release-frontend'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: echo "release the frontend"
