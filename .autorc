@@ -6,9 +6,10 @@
     "first-time-contributor",
     "released"
   ],
-  "owner": "mvandenburgh",
+  "author": "DANDI Bot <team@dandiarchive.org>",
+  "owner": "dandibot",
   "repo": "auto-test",
-  "name": "mvandenburgh",
-  "email": "michael.vandenburgh@kitware.com",
+  "name": "DANDI Bot",
+  "email": "dandibot@mit.edu",
   "onlyPublishWithReleaseLabel": true
 }
