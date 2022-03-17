@@ -1,3 +1,16 @@
+# v1.2.5 (Thu Mar 17 2022)
+
+#### 🐛 Bug Fix
+
+- Update README.md [#13](https://github.com/mvandenburgh/auto-test/pull/13) ([@mvandenburgh](https://github.com/mvandenburgh))
+- remove node install step [#12](https://github.com/mvandenburgh/auto-test/pull/12) ([@mvandenburgh](https://github.com/mvandenburgh))
+
+#### Authors: 1
+
+- Mike VanDenburgh ([@mvandenburgh](https://github.com/mvandenburgh))
+
+---
+
 # v1.2.4 (Thu Mar 17 2022)
 
 #### 🐛 Bug Fix
