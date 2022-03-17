@@ -67,10 +67,6 @@ jobs:
         with:
           node-version: 12.x
 
-      - name: Install auto plugins
-        run: |
-          sudo npm install -g @auto-it/git-tag @auto-it/all-contributors @auto-it/conventional-commits @auto-it/first-time-contributor @auto-it/released
-
       - name: Download latest auto
         run: |
           auto_download_url="$(curl -fsSL https://api.github.com/repos/intuit/auto/releases/latest | jq -r '.assets[] | select(.name == "auto-linux.gz") | .browser_download_url')"
