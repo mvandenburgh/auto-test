@@ -1,2 +1,1 @@
 # auto-test
-test
