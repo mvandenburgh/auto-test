@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "conventional-commits",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "mvandenburgh",
+  "repo": "auto-test",
+  "name": "mvandenburgh",
+  "email": "michael.vandenburgh@kitware.com",
+  "onlyPublishWithReleaseLabel": true
+}
