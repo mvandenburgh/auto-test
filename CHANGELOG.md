@@ -1,3 +1,15 @@
+# v2.0.1 (Fri Mar 18 2022)
+
+#### 🐛 Bug Fix
+
+- Update README.md [#23](https://github.com/mvandenburgh/auto-test/pull/23) ([@mvandenburgh](https://github.com/mvandenburgh))
+
+#### Authors: 1
+
+- Mike VanDenburgh ([@mvandenburgh](https://github.com/mvandenburgh))
+
+---
+
 # v2.0.0 (Thu Mar 17 2022)
 
 #### 💥 Breaking Change
